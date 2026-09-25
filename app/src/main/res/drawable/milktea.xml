@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#F3E5F5"
+        android:pathData="M50,0 A50,50 0 1,0 50,100 A50,50 0 1,0 50,0 Z"/>
+    <!-- Straw -->
+    <path
+        android:fillColor="#E74C3C"
+        android:pathData="M52,8 L60,8 L48,88 L40,88 Z"/>
+    <!-- Cup Body -->
+    <path
+        android:fillColor="#D7CCC8"
+        android:pathData="M25,30 L75,30 L68,85 C67,88 63,90 60,90 L40,90 C37,90 33,88 32,85 Z"/>
+    <!-- Milk Tea Liquid -->
+    <path
+        android:fillColor="#A1887F"
+        android:pathData="M27,38 L73,38 L68,84 L32,84 Z"/>
+    <!-- Ice cubes / Foam top -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,28 L75,28 L73,38 L27,38 Z"/>
+    <!-- Boba Pearls -->
+    <path
+        android:fillColor="#3E2723"
+        android:pathData="M38,76 A4,4 0 1,0 38,84 A4,4 0 1,0 38,76 Z M48,78 A4,4 0 1,0 48,86 A4,4 0 1,0 48,78 Z M58,75 A4,4 0 1,0 58,83 A4,4 0 1,0 58,75 Z M42,68 A4,4 0 1,0 42,76 A4,4 0 1,0 42,68 Z M52,70 A4,4 0 1,0 52,78 A4,4 0 1,0 52,70 Z M60,67 A4,4 0 1,0 60,75 A4,4 0 1,0 60,67 Z"/>
+    <!-- Lid Lip -->
+    <path
+        android:fillColor="#B0BEC5"
+        android:pathData="M22,25 C22,23 78,23 78,25 L76,30 L24,30 Z"/>
+</vector>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#FFEBEE"
+        android:pathData="M50,0 A50,50 0 1,0 50,100 A50,50 0 1,0 50,0 Z"/>
+    <!-- Bowl -->
+    <path
+        android:fillColor="#C0392B"
+        android:pathData="M15,48 C15,82 85,82 85,48 Z"/>
+    <!-- Bowl Lip -->
+    <path
+        android:fillColor="#E74C3C"
+        android:pathData="M12,44 L88,44 L85,49 L15,49 Z"/>
+    <!-- Soup / Noodles base -->
+    <path
+        android:fillColor="#F39C12"
+        android:pathData="M15,48 C15,42 85,42 85,48 Z"/>
+    <!-- Noodles strands -->
+    <path
+        android:strokeColor="#F1C40F"
+        android:strokeWidth="3"
+        android:fillColor="#00000000"
+        android:pathData="M25,46 Q35,30 45,46 T65,46 T80,46 M20,48 Q35,35 50,48 T75,48 M30,44 Q45,28 60,44 T70,44"/>
+    <!-- Chili / Egg -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,40 A8,8 0 1,0 40,56 A8,8 0 1,0 40,40 Z"/>
+    <path
+        android:fillColor="#F1C40F"
+        android:pathData="M40,44 A4,4 0 1,0 40,52 A4,4 0 1,0 40,44 Z"/>
+    <!-- Chopsticks -->
+    <path
+        android:strokeColor="#7F8C8D"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M25,18 L65,50 M30,15 L70,48"/>
+</vector>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+    <!-- Background Circle -->
+    <path
+        android:fillColor="#FFF8E1"
+        android:pathData="M50,0 A50,50 0 1,0 50,100 A50,50 0 1,0 50,0 Z"/>
+    <!-- Bone -->
+    <path
+        android:fillColor="#ECF0F1"
+        android:pathData="M22,68 A5,5 0 1,0 22,78 A5,5 0 1,0 22,68 Z M18,74 A5,5 0 1,0 18,84 A5,5 0 1,0 18,74 Z"/>
+    <path
+        android:fillColor="#BDC3C7"
+        android:pathData="M20,72 L45,52 L52,58 L27,78 Z"/>
+    <!-- Fried Chicken Body -->
+    <path
+        android:fillColor="#D35400"
+        android:pathData="M38,48 C30,30 55,18 72,25 C88,32 90,58 78,70 C65,80 42,75 38,48 Z"/>
+    <path
+        android:fillColor="#E67E22"
+        android:pathData="M42,46 C36,34 56,24 70,30 C82,36 84,56 74,66 C63,74 45,70 42,46 Z"/>
+    <!-- Crispy bumps -->
+    <path
+        android:fillColor="#F39C12"
+        android:pathData="M48,35 A3,3 0 1,0 48,41 A3,3 0 1,0 48,35 Z M60,28 A4,4 0 1,0 60,36 A4,4 0 1,0 60,28 Z M70,40 A3,3 0 1,0 70,46 A3,3 0 1,0 70,40 Z M58,52 A5,5 0 1,0 58,62 A5,5 0 1,0 58,52 Z M72,55 A4,4 0 1,0 72,63 A4,4 0 1,0 72,55 Z"/>
+</vector>
